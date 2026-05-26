@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Pxych0o.aternos.me",
-    "port":31361 ,
+    "port": 31361 ,
     "version": "1.20.1",
     "try-creative": false
   },
